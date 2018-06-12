@@ -1,0 +1,6 @@
+D:\Viсtoria\Study\Labs C#\Lab1 - sharps\PhoneNet\obj\Debug\PhoneNet.csprojAssemblyReference.cache
+D:\Viсtoria\Study\Labs C#\Lab1 - sharps\PhoneNet\obj\Debug\PhoneNet.csproj.CoreCompileInputs.cache
+D:\Viсtoria\Study\Labs C#\Lab1 - sharps\PhoneNet\bin\Debug\PhoneNet.exe
+D:\Viсtoria\Study\Labs C#\Lab1 - sharps\PhoneNet\bin\Debug\PhoneNet.pdb
+D:\Viсtoria\Study\Labs C#\Lab1 - sharps\PhoneNet\obj\Debug\PhoneNet.exe
+D:\Viсtoria\Study\Labs C#\Lab1 - sharps\PhoneNet\obj\Debug\PhoneNet.pdb
