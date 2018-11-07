@@ -1,0 +1,5 @@
+D:\Viсtoria\Study\C# labs\ClocksTask\Structural pattern\bin\Debug\Structural_pattern.exe
+D:\Viсtoria\Study\C# labs\ClocksTask\Structural pattern\bin\Debug\Structural_pattern.pdb
+D:\Viсtoria\Study\C# labs\ClocksTask\Structural pattern\obj\Debug\Structural_pattern.exe
+D:\Viсtoria\Study\C# labs\ClocksTask\Structural pattern\obj\Debug\Structural_pattern.pdb
+D:\Viсtoria\Study\C# labs\ClocksTask\Structural pattern\obj\Debug\Structural pattern.csprojResolveAssemblyReference.cache
