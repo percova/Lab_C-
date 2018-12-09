@@ -1,0 +1,4 @@
+D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\bin\Release\CarManufacturingFactory.exe
+D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\bin\Release\CarManufacturingFactory.pdb
+D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Release\CarManufacturingFactory.exe
+D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Release\CarManufacturingFactory.pdb

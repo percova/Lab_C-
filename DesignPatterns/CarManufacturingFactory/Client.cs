@@ -12,11 +12,20 @@
             _truck = factory.CreateTruck();
             _bus = factory.CreateBus();
         }
-        
-        public PassengerCar PassengerCar => _passengerCar;
-        
-        public Truck Truck => _truck;
 
-        public Bus Bus => _bus;
+        public void Ride()
+        {
+            _passengerCar.Ride();
+        }
+
+        public void PassangerTransport()
+        {
+            _bus.PassengerTransport();
+        }
+
+        public void GoodsTransport()
+        {
+            _truck.GoodsTransport();
+        }
     }
 }

@@ -1,6 +1,6 @@
 D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\bin\Debug\CarManufacturingFactory.exe
 D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\bin\Debug\CarManufacturingFactory.pdb
-D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Debug\CarManufacturingFactory.csprojAssemblyReference.cache
-D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Debug\CarManufacturingFactory.csproj.CoreCompileInputs.cache
 D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Debug\CarManufacturingFactory.exe
 D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Debug\CarManufacturingFactory.pdb
+D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Debug\CarManufacturingFactory.csprojAssemblyReference.cache
+D:\Viсtoria\Study\C# labs\DesignPatterns\CarManufacturingFactory\obj\Debug\CarManufacturingFactory.csproj.CoreCompileInputs.cache
