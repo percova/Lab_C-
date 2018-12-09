@@ -1,0 +1,7 @@
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\bin\Debug\ComplexNumInterpetator.exe
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\bin\Debug\ComplexNumInterpetator.pdb
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\bin\Debug\ComplexExpressions.dll
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\bin\Debug\ComplexExpressions.pdb
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\obj\Debug\ComplexNumInterpetator.csprojResolveAssemblyReference.cache
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\obj\Debug\ComplexNumInterpetator.exe
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexNumInterpetator\obj\Debug\ComplexNumInterpetator.pdb

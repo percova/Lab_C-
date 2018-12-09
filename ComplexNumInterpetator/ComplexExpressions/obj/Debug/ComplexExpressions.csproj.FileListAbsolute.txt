@@ -1,0 +1,5 @@
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexExpressions\bin\Debug\ComplexExpressions.dll
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexExpressions\bin\Debug\ComplexExpressions.pdb
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexExpressions\obj\Debug\ComplexExpressions.csprojResolveAssemblyReference.cache
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexExpressions\obj\Debug\ComplexExpressions.dll
+D:\Victoria\Study\C# labs\ComplexNumInterpetator\ComplexExpressions\obj\Debug\ComplexExpressions.pdb
